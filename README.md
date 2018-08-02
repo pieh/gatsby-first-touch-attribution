@@ -4,7 +4,7 @@ Stores the original referrer in a cookie.
 
 ## Install
 
-`npm install --save gatsby-plugin-first-touch-attribution`
+`npm install --save https://github.com/pieh/gatsby-plugin-first-touch-attribution/releases/download/1.0.0/gatsby-plugin-first-touch-attribution-v1.0.0.tgz`
 
 ## How to use
 
